@@ -3,7 +3,7 @@
   "contextPath" : "myapplication",
   "key"         : "myapplication-appkey_",
   "name"        : "My application",
-  "resourcesUrl": "https://raw.githubusercontent.com/dwiyatci/cumulocity-plugin-helloworld/master/build",
+  "resourcesUrl": "https://github.com/dwiyatci/cumulocity-plugin-helloworld/tree/master/build",
   "type"        : "HOSTED",
   "imports"     : [
     "core/c8yBranding",

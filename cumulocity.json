@@ -1,0 +1,11 @@
+{
+  "availability": "PRIVATE",
+  "contextPath" : "myapplication",
+  "key"         : "myapplication-appkey",
+  "name"        : "My application",
+  "resourcesUrl": "https://raw.githubusercontent.com/dwiyatci/cumulocity-plugin-helloworld/master/build",
+  "type"        : "HOSTED",
+  "imports"     : [
+    "core/c8yBranding"
+  ]
+}
